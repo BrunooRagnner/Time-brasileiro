@@ -25,7 +25,7 @@ BarberSched.MD é um sistema de agendamento para barbearias, desenvolvido para f
 - **Backend**: PHP
 
 ## Instalação e Uso
-
+(http://hosman.rf.gd/)
 1. Clone este repositório.
 2. Configure um servidor PHP para hospedar o sistema.
 3. Acesse o sistema através do navegador.
